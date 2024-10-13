@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Mobile Apps**
 
-- 🌱 I’m currently learning **Jetpack Compose , KMP**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
