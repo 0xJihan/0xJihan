@@ -28,6 +28,18 @@
 
 ```
 
+
+<br>
+<h2>Top Skills</h2>
+<ul>
+           <li><b>Database: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Sqlite</code> <code>Mysql</code> <code>MongoDB</code> <code>Room</code> <code>Firebase</code></li>
+  <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code> <code> Fedora </code> </li>
+  <li><b>Development: </b> <code>Android App Development</code> <code>Kotlin App Development</code> <code>Backend Development</code></li>
+  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Version Control</code> <code>Github</code> <code>NodeJs</code> <code>Express</code> <code>Socket.io</code>
+<br>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/0xjih4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0xjih4n" height="30" width="40" /></a>
