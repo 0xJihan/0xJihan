@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 💬 Ask me about **Android,Java,Kotlin,KMP**
+- 💬 Ask me about **Android,Java,Kotlin**
 
 - 📫 How to reach me **jihankhan966@gmail.com**
 
