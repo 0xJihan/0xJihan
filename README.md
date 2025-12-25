@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Mobile Apps**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 💬 Ask me about **Android,Java,Kotlin**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **jihankhan966@gmail.com**
 
@@ -32,10 +32,12 @@
 <br>
 <h2>Top Skills</h2>
 <ul>
-           <li><b>Database: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Sqlite</code> <code>Mysql</code> <code>MongoDB</code> <code>Room</code> <code>Firebase</code></li>
-  <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code> <code> Fedora </code> </li>
-  <li><b>Development: </b> <code>Android App Development</code> <code>Kotlin App Development</code> <code>Backend Development</code></li>
-  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Version Control</code> <code>Github</code> <code>NodeJs</code> <code>Express</code> <code>Socket.io</code>
+           <li><b>Programming Languages: &nbsp;&nbsp;&nbsp;</b> <code>Kotlin</code> <code>Dart</code> <code>Python</code> <code>Javascript</code> <code>Python</code></li>
+             <li><b>Frameworks: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Jetpack Compose</code> <code>Flutter</code> <code>FastAPI</code> <code>NodeJS</code> <code>ExpressJS</code> <code>KMP</code> <code>Tailwind CSS</code> </li>
+          <li><b>Database: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>PostgreSQL</code> <code>MongoDB</code> <code>Sqlite</code> <code>MySQL</code> <code>ObjectBox</code> <code>Room</code> <code>Hive</code> <code>Firebase</code></li>
+  <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Arch Linux</code> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code> <code> Fedora </code> </li>
+  <li><b>Development: </b> <code>Flutter App Development</code> <code>Android App Development</code> <code>Kotlin App Development</code> <code>Backend Development</code></li>
+  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Version Control</code> <code>Debugging</code> <code>Software Architecture & Design Patterns</code> <code>Agile Development (Scrum)</code> <code>Socket.io</code>
 <br>
 
 
