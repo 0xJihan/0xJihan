@@ -131,17 +131,18 @@ I enjoy working across the entire development lifecycle — from designing intui
 <div align="center">
 
 <a href="https://github.com/0xjihan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xjihan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xjihan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&icon_color=8B5CF6&border_radius=12" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/0xjihan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjihan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjihan&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&border_radius=12&langs_count=8" alt="Top Languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=0xjihan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com/?user=0xjihan&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280" alt="GitHub Streak"/>
 
 </div>
+
 
 ---
 
