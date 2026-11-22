@@ -79,147 +79,50 @@ I enjoy working across the entire development lifecycle — from designing intui
 
 ---
 
-## 🧰 Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,js,php,bash,rust,go,swift" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,js,php,bash,rust,go,swift" />
 </p>
 
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" alt="Mobile Development"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" />
 </p>
-
-- Android SDK
-- Kotlin & Java
-- Jetpack Compose
-- Material 3
-- Flutter & Dart
-- Kotlin Multiplatform (KMP)
-- Compose Multiplatform
-- Navigation Compose
-- Responsive UI Development
-- Native Mobile App Architecture
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,php,python" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,php" />
 </p>
 
-- Node.js & Express.js
-- FastAPI
-- Laravel
-- RESTful API Development
-- Socket.IO
-- WebSocket Communication
-- Authentication & Authorization
-- API Integration
-- Backend Architecture
-
-### Databases & Backend Services
+### Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgres,sqlite" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,supabase" />
 </p>
 
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
-- Firebase Firestore
-- Firebase Authentication
-- Supabase
-- Room Database
-- ObjectBox
-- DataStore
-- Hive
-
-### Android Libraries & Architecture
-
-- MVVM & MVI
-- Clean Architecture
-- Kotlin Coroutines & Flow
-- Koin & Dagger Hilt
-- Retrofit & OkHttp
-- Ktor Client
-- Jetpack Navigation
-- WorkManager
-- Coil
-- Kotlin Serialization
-- Gradle & KSP
-- Dependency Injection
-- Repository Pattern
-
-### Tools & Development Environment
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,gradle,figma,postman,linux" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gradle,docker,nginx,linux,ubuntu,arch,windows,apple,figma,postman" />
 </p>
 
-- Android Studio
-- IntelliJ IDEA
-- Visual Studio Code
-- Git & GitHub
-- Gradle
-- JitPack
-- Postman
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
-- Canva
-
-### DevOps & Infrastructure
+### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,docker,nginx" alt="DevOps Tools"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Koin-6B4EFF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt-4285F4?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 </p>
-
-- Linux (Arch, Ubuntu, Fedora, Kali)
-- Windows & macOS
-- Nginx & Reverse Proxy
-- PM2
-- CloudPanel
-- Hostinger & Namecheap Hosting
-- SSL / TLS & Certbot
-- Application Deployment
-- Server Management
-
-### Other Skills
-
-- Software Architecture & Design Patterns
-- Agile Development (Scrum)
-- Debugging & Performance Optimization
-- Version Control
-- UI/UX Implementation
-- Google Play Store Publishing
-- Technical Documentation
-- Meta Ads & Google AdSense
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Mobile Applications
-
-| Project | Description | Technologies |
-|:---|:---|:---|
-| **Pocket Log** | Privacy-focused, offline-first personal expense management application. | Kotlin, Jetpack Compose, Room, MVI |
-| **Perfect Solution** | Full-featured e-commerce application with a custom backend and admin panel. | Kotlin, Jetpack Compose, Node.js, MongoDB |
-| **AGD Travels** | Bus and air ticket booking application with travel-related integrations. | Flutter, Laravel |
-| **Crypto Tracker** | Responsive application for tracking live cryptocurrency information. | Kotlin, Compose, Ktor, Koin |
-| **Age Calculator** | Age management application with profiles and automatic age updates. | Kotlin, Room, WorkManager |
-| **Shohid** | Digital memorial dedicated to the martyrs of the 2024 student movement in Bangladesh. | Kotlin, Retrofit, Room, Hilt |
-
-### 🧩 Open Source Projects
-
-| Project | Description |
-|:---|:---|
-| **Computils** | Lightweight Kotlin and Jetpack Compose utility library with reusable extensions, color palettes, and UI computation functions. |
-| **Lucide Icons** | Lucide icon integration library for Jetpack Compose with customizable vector icons. |
 
 ---
 
