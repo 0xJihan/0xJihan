@@ -1,60 +1,263 @@
 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Jihan</h1>
-<h3 align="center">A passionate Android Developer</h3>
+# Hi there, I'm Jihan Khan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjihan&label=Profile%20views&color=0e75b6&style=flat" alt="0xjihan" /> </p>
+### Software Engineer | Android & Full-Stack Developer
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xjihan" alt="0xjihan" /></a> </p> -->
+Building beautiful, scalable, and user-focused software.
 
-- 🔭 I’m currently working on **Mobile Apps**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Android Projects**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **jihankhan966@gmail.com**
-
-
-
-```yaml
-
--About Me:
-         - Name: Jihan Khan
-         - Education: Diploma in CST
-         - Live in: Mymensingh
-
-```
-
-
-<br>
-<h2>Top Skills</h2>
-<ul>
-           <li><b>Programming Languages: &nbsp;&nbsp;&nbsp;</b> <code>Kotlin</code> <code>Dart</code> <code>Python</code> <code>Javascript</code> <code>Python</code></li>
-             <li><b>Frameworks: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Jetpack Compose</code> <code>Flutter</code> <code>FastAPI</code> <code>NodeJS</code> <code>ExpressJS</code> <code>KMP</code> <code>Tailwind CSS</code> </li>
-          <li><b>Database: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>PostgreSQL</code> <code>MongoDB</code> <code>Sqlite</code> <code>MySQL</code> <code>ObjectBox</code> <code>Room</code> <code>Hive</code> <code>Firebase</code></li>
-  <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Arch Linux</code> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code> <code> Fedora </code> </li>
-  <li><b>Development: </b> <code>Flutter App Development</code> <code>Android App Development</code> <code>Kotlin App Development</code> <code>Backend Development</code></li>
-  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Version Control</code> <code>Debugging</code> <code>Software Architecture & Design Patterns</code> <code>Agile Development (Scrum)</code> <code>Socket.io</code>
-<br>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jihan.khan.16112005" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0xjih4n" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/0xjihan">
+    <img src="https://komarev.com/ghpvc/?username=0xjihan&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/0xjihan?tab=followers">
+    <img src="https://img.shields.io/github/followers/0xjihan?label=Followers&style=flat-square&color=6366f1" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/0xjihan">
+    <img src="https://img.shields.io/github/stars/0xjihan?label=Stars&style=flat-square&color=6366f1" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p>
+  <a href="mailto:jihankhan966@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/0xjihan">
+    <img src="https://img.shields.io/badge/GitHub-0xjihan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xjihan&show_icons=true&locale=en&layout=compact" alt="0xjihan" /></p>
+</div>
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xjihan&show_icons=true&locale=en" alt="0xjihan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xjihan&" alt="0xjihan" /></p>  --> 
+## 👨‍💻 About Me
 
+I'm a Software Engineer passionate about building modern mobile applications, scalable backend systems, and practical software solutions.
 
+I enjoy working across the entire development lifecycle — from designing intuitive user interfaces to architecting backend services and deploying production-ready applications.
+
+- 💼 **Currently:** Software Engineer at Asian Group Distributor.
+- 📱 **Specialization:** Native Android & Cross-platform Mobile Development.
+- 🌱 **Exploring:** Flutter, Rust, Go, and modern software architecture.
+- 🛠️ **Interests:** Mobile Engineering, Backend Development, Open Source, and Developer Tools.
+- 🤝 **Open to:** Interesting projects, collaborations, and open-source contributions.
+- 📍 **Location:** Bangladesh.
+- 📧 **Email:** [jihankhan966@gmail.com](mailto:jihankhan966@gmail.com).
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineer — Asian Group Distributor (Pacific International)**
+
+*February 2025 – Present · Remote*
+
+- Developing production-ready Android and iOS applications using Flutter.
+- Building mobile applications including AGD Travels and Arohi.
+- Implementing bus ticketing, air ticketing, and flight integration features.
+- Designing RESTful APIs and backend services using Laravel.
+- Collaborating with international teams to improve application architecture, performance, and user experience.
+
+**Software Development Engineer (Android) — Bitsec**
+
+*November 2024 – February 2025 · Remote*
+
+- Developed native Android applications using Kotlin, Java, and Jetpack Compose.
+- Implemented Clean Architecture, MVVM, and MVI.
+- Collaborated with cross-functional engineering and design teams.
+- Managed Google Play Store deployment, versioning, and release workflows.
+
+**Freelance App Developer**
+
+*June 2022 – Present · Remote*
+
+- Developed and published production-ready mobile applications.
+- Integrated REST APIs, third-party services, and payment gateways.
+- Delivered end-to-end mobile and backend solutions.
+
+---
+
+## 🧰 Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,js,php,bash,rust,go,swift" alt="Programming Languages"/>
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" alt="Mobile Development"/>
+</p>
+
+- Android SDK
+- Kotlin & Java
+- Jetpack Compose
+- Material 3
+- Flutter & Dart
+- Kotlin Multiplatform (KMP)
+- Compose Multiplatform
+- Navigation Compose
+- Responsive UI Development
+- Native Mobile App Architecture
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,php,python" alt="Backend Technologies"/>
+</p>
+
+- Node.js & Express.js
+- FastAPI
+- Laravel
+- RESTful API Development
+- Socket.IO
+- WebSocket Communication
+- Authentication & Authorization
+- API Integration
+- Backend Architecture
+
+### Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgres,sqlite" alt="Databases"/>
+</p>
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- SQLite
+- Firebase Firestore
+- Firebase Authentication
+- Supabase
+- Room Database
+- ObjectBox
+- DataStore
+- Hive
+
+### Android Libraries & Architecture
+
+- MVVM & MVI
+- Clean Architecture
+- Kotlin Coroutines & Flow
+- Koin & Dagger Hilt
+- Retrofit & OkHttp
+- Ktor Client
+- Jetpack Navigation
+- WorkManager
+- Coil
+- Kotlin Serialization
+- Gradle & KSP
+- Dependency Injection
+- Repository Pattern
+
+### Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,gradle,figma,postman,linux" alt="Development Tools"/>
+</p>
+
+- Android Studio
+- IntelliJ IDEA
+- Visual Studio Code
+- Git & GitHub
+- Gradle
+- JitPack
+- Postman
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Canva
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,docker,nginx" alt="DevOps Tools"/>
+</p>
+
+- Linux (Arch, Ubuntu, Fedora, Kali)
+- Windows & macOS
+- Nginx & Reverse Proxy
+- PM2
+- CloudPanel
+- Hostinger & Namecheap Hosting
+- SSL / TLS & Certbot
+- Application Deployment
+- Server Management
+
+### Other Skills
+
+- Software Architecture & Design Patterns
+- Agile Development (Scrum)
+- Debugging & Performance Optimization
+- Version Control
+- UI/UX Implementation
+- Google Play Store Publishing
+- Technical Documentation
+- Meta Ads & Google AdSense
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Mobile Applications
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **Pocket Log** | Privacy-focused, offline-first personal expense management application. | Kotlin, Jetpack Compose, Room, MVI |
+| **Perfect Solution** | Full-featured e-commerce application with a custom backend and admin panel. | Kotlin, Jetpack Compose, Node.js, MongoDB |
+| **AGD Travels** | Bus and air ticket booking application with travel-related integrations. | Flutter, Laravel |
+| **Crypto Tracker** | Responsive application for tracking live cryptocurrency information. | Kotlin, Compose, Ktor, Koin |
+| **Age Calculator** | Age management application with profiles and automatic age updates. | Kotlin, Room, WorkManager |
+| **Shohid** | Digital memorial dedicated to the martyrs of the 2024 student movement in Bangladesh. | Kotlin, Retrofit, Room, Hilt |
+
+### 🧩 Open Source Projects
+
+| Project | Description |
+|:---|:---|
+| **Computils** | Lightweight Kotlin and Jetpack Compose utility library with reusable extensions, color palettes, and UI computation functions. |
+| **Lucide Icons** | Lucide icon integration library for Jetpack Compose with customizable vector icons. |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/0xjihan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xjihan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/0xjihan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjihan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=0xjihan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:jihankhan966@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/0xjihan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://fb.com/jihan.khan.16112005">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<br/><br/>
+
+**"Building things that solve real problems, one line of code at a time."**
+
+</div>
